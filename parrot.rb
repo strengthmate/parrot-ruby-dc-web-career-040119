@@ -2,6 +2,6 @@
 # returns the phrase
 
 def parrot (bird="Squawk!")
-
-  puts "#{bird}"
+  puts bird
+  return bird
 end
