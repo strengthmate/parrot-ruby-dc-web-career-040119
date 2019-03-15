@@ -3,7 +3,7 @@
 
 def parrot (bird="Squawk!")
   bird
+  if bird
   puts "Pretty bird!"
-  
-    puts "Squawk!"
+  puts "Squawk!"
 end
